@@ -1,0 +1,16 @@
+Value mm;ID;Label;Label_ID;Description
+;;PLT;PLT_;Plate
+;;WEL;WEL_;Wheel
+;;STR;STR_;Steering
+;;BER;BER_;Bering
+360;l_ext;PLT;PLT_l_ext;Length
+160;w_ext;PLT;PLT_w_ext;Width
+8;r_ext;SHF;SHF_r_ext;radius
+60;r_ext;WEL;WEL_r_ext;external radius
+40;w_ext;WEL;WEL_w_ext;total width
+3;r_rim_w;WEL;WEL_r_rim_w;rim width
+5;r_rim_out;WEL;WEL_r_rim_out;
+10;r_rim_in;WEL;WEL_r_rim_in;
+22;r_ext;BER;BER_r_ext;external radius
+7;w_ext;BER;BER_w_ext;total width
+8;r_in;BER;BER_r_in;inner radius
